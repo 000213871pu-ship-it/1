@@ -1,4 +1,4 @@
-local input = gg.prompt({"请输入卡密："}, {""}, {"text"})
+【local input = gg.prompt({"请输入卡密："}, {""}, {"text"})
 
 if input == nil then
     os.exit()
@@ -259,3 +259,4 @@ end
 else
     gg.alert("❌ 网络请求失败", "确定")
 end
+】
