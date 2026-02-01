@@ -1,4 +1,4 @@
-local input = gg.prompt({"请输入卡密："}, {""}, {"text"})
+local input = gg.prompt({"请输入卡密："}, {""}, {"text"})这么慢
 
 if input == nil then
     os.exit()
