@@ -1,4 +1,4 @@
-123456local input = gg.prompt({"请输入卡密："}, {""}, {"text"})
+local input = gg.prompt({"请输入卡密："}, {""}, {"text"})
 
 if input == nil then
     os.exit()
